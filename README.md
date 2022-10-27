@@ -4,8 +4,7 @@
 
 ![image psd (2)](https://user-images.githubusercontent.com/109727844/198281380-a82acd08-2e99-4d77-ad8c-8b9aa04d922b.jpg)
 
-![s psd](https://user-images.githubusercontent.com/109727844/188237760-5ed64bda-69c4-4be5-8fd2-f0a7d122d9c9.jpg)
-
+![image psd (3)](https://user-images.githubusercontent.com/109727844/198281731-f7243c35-5ec1-4e0d-abfc-6c524006e384.jpg)
 
 - 🔗 [Demo Project](https://pouria-farahani-developer.github.io/Form-Validation/)
 
